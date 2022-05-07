@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Eduardo Araújo Lima</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Eduardo Araújo Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     <lastBuildDate>Sat, 07 May 2022 10:23:36 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First_post</title>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 07 May 2022 11:05:09 -0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Isso não deveria aparecer ná página de posts</description>
+    </item>
+    
+    <item>
+      <title>Primeiro post</title>
       <link>http://example.org/posts/first_post/</link>
       <pubDate>Sat, 07 May 2022 10:23:36 -0300</pubDate>
       
       <guid>http://example.org/posts/first_post/</guid>
-      <description>Isso é pra ser o primeiro post</description>
+      <description>Oi eu sou o Edu 🔗Isso é pra ser o primeiro post
+Eu ainda não sei pq estou fazendo, talvez para aprender</description>
     </item>
     
     <item>
@@ -23,15 +33,6 @@
       
       <guid>http://example.org/posts/second_post/</guid>
       <description>Isso é pra ser o Segundo post</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/page/about/</guid>
-      <description>Página de sobre</description>
     </item>
     
   </channel>
